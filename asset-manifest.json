@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codebook-client/static/css/main.58b52c17.chunk.css",
+    "main.js": "/codebook-client/static/js/main.366890f8.chunk.js",
+    "main.js.map": "/codebook-client/static/js/main.366890f8.chunk.js.map",
+    "runtime-main.js": "/codebook-client/static/js/runtime-main.dd6be04a.js",
+    "runtime-main.js.map": "/codebook-client/static/js/runtime-main.dd6be04a.js.map",
+    "static/js/2.2c98b26e.chunk.js": "/codebook-client/static/js/2.2c98b26e.chunk.js",
+    "static/js/2.2c98b26e.chunk.js.map": "/codebook-client/static/js/2.2c98b26e.chunk.js.map",
+    "index.html": "/codebook-client/index.html",
+    "precache-manifest.61d9b9a0d68b14f664d0ed4443dd462f.js": "/codebook-client/precache-manifest.61d9b9a0d68b14f664d0ed4443dd462f.js",
+    "service-worker.js": "/codebook-client/service-worker.js",
+    "static/css/main.58b52c17.chunk.css.map": "/codebook-client/static/css/main.58b52c17.chunk.css.map",
+    "static/js/2.2c98b26e.chunk.js.LICENSE.txt": "/codebook-client/static/js/2.2c98b26e.chunk.js.LICENSE.txt",
+    "static/media/landing-page-image.jpg": "/codebook-client/static/media/landing-page-image.ddd0118e.jpg",
+    "static/media/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671.jpg": "/codebook-client/static/media/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671.f52822f0.jpg",
+    "static/media/showcase.jpg": "/codebook-client/static/media/showcase.4b31330b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6be04a.js",
+    "static/js/2.2c98b26e.chunk.js",
+    "static/css/main.58b52c17.chunk.css",
+    "static/js/main.366890f8.chunk.js"
+  ]
+}
