@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/codebook-client/static/css/main.58b52c17.chunk.css",
-    "main.js": "/codebook-client/static/js/main.f716f17a.chunk.js",
-    "main.js.map": "/codebook-client/static/js/main.f716f17a.chunk.js.map",
+    "main.js": "/codebook-client/static/js/main.ed0dbaaa.chunk.js",
+    "main.js.map": "/codebook-client/static/js/main.ed0dbaaa.chunk.js.map",
     "runtime-main.js": "/codebook-client/static/js/runtime-main.dd6be04a.js",
     "runtime-main.js.map": "/codebook-client/static/js/runtime-main.dd6be04a.js.map",
-    "static/js/2.2c98b26e.chunk.js": "/codebook-client/static/js/2.2c98b26e.chunk.js",
-    "static/js/2.2c98b26e.chunk.js.map": "/codebook-client/static/js/2.2c98b26e.chunk.js.map",
+    "static/js/2.45490eb9.chunk.js": "/codebook-client/static/js/2.45490eb9.chunk.js",
+    "static/js/2.45490eb9.chunk.js.map": "/codebook-client/static/js/2.45490eb9.chunk.js.map",
     "index.html": "/codebook-client/index.html",
-    "precache-manifest.e7c1202e78b584bf3c2397eeade1684d.js": "/codebook-client/precache-manifest.e7c1202e78b584bf3c2397eeade1684d.js",
+    "precache-manifest.e520847d7080c29512017bbc9d110d02.js": "/codebook-client/precache-manifest.e520847d7080c29512017bbc9d110d02.js",
     "service-worker.js": "/codebook-client/service-worker.js",
     "static/css/main.58b52c17.chunk.css.map": "/codebook-client/static/css/main.58b52c17.chunk.css.map",
-    "static/js/2.2c98b26e.chunk.js.LICENSE.txt": "/codebook-client/static/js/2.2c98b26e.chunk.js.LICENSE.txt",
+    "static/js/2.45490eb9.chunk.js.LICENSE.txt": "/codebook-client/static/js/2.45490eb9.chunk.js.LICENSE.txt",
     "static/media/landing-page-image.jpg": "/codebook-client/static/media/landing-page-image.ddd0118e.jpg",
     "static/media/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671.jpg": "/codebook-client/static/media/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671.f52822f0.jpg",
     "static/media/showcase.jpg": "/codebook-client/static/media/showcase.4b31330b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd6be04a.js",
-    "static/js/2.2c98b26e.chunk.js",
+    "static/js/2.45490eb9.chunk.js",
     "static/css/main.58b52c17.chunk.css",
-    "static/js/main.f716f17a.chunk.js"
+    "static/js/main.ed0dbaaa.chunk.js"
   ]
 }
