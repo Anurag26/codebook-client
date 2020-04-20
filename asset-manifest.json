@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/codebook-client/static/css/main.58b52c17.chunk.css",
-    "main.js": "/codebook-client/static/js/main.366890f8.chunk.js",
-    "main.js.map": "/codebook-client/static/js/main.366890f8.chunk.js.map",
+    "main.js": "/codebook-client/static/js/main.f716f17a.chunk.js",
+    "main.js.map": "/codebook-client/static/js/main.f716f17a.chunk.js.map",
     "runtime-main.js": "/codebook-client/static/js/runtime-main.dd6be04a.js",
     "runtime-main.js.map": "/codebook-client/static/js/runtime-main.dd6be04a.js.map",
     "static/js/2.2c98b26e.chunk.js": "/codebook-client/static/js/2.2c98b26e.chunk.js",
     "static/js/2.2c98b26e.chunk.js.map": "/codebook-client/static/js/2.2c98b26e.chunk.js.map",
     "index.html": "/codebook-client/index.html",
-    "precache-manifest.61d9b9a0d68b14f664d0ed4443dd462f.js": "/codebook-client/precache-manifest.61d9b9a0d68b14f664d0ed4443dd462f.js",
+    "precache-manifest.e7c1202e78b584bf3c2397eeade1684d.js": "/codebook-client/precache-manifest.e7c1202e78b584bf3c2397eeade1684d.js",
     "service-worker.js": "/codebook-client/service-worker.js",
     "static/css/main.58b52c17.chunk.css.map": "/codebook-client/static/css/main.58b52c17.chunk.css.map",
     "static/js/2.2c98b26e.chunk.js.LICENSE.txt": "/codebook-client/static/js/2.2c98b26e.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.dd6be04a.js",
     "static/js/2.2c98b26e.chunk.js",
     "static/css/main.58b52c17.chunk.css",
-    "static/js/main.366890f8.chunk.js"
+    "static/js/main.f716f17a.chunk.js"
   ]
 }
