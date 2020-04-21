@@ -42,7 +42,7 @@ export default class ProfileDetailsContainer extends React.Component {
     getRepos = (username) => {
         fetch(`https://api.github.com/users/${username}/repos`, {
             headers: {
-                'Authorization': 'token f08df122c87824bbc1726478300e75f59e14584f'
+                'Authorization': 'token d2dd34694a675badb41acc9dc27f9d5df5165577'
             }
         })
             .then(response => response.json())
