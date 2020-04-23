@@ -1,3 +1,5 @@
+[Try the application here](httout the ps://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client)
+
 
 ## Instruction to run file
 1. `npm install`
