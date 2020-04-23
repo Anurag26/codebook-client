@@ -1,4 +1,5 @@
-[Try the application here](httout the ps://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client)
+
+[Try the CodeBook application here](https://cs5610-wbdv-client-gp32.herokuapp.com/codebook-client)
 
 
 ## Instruction to run file
